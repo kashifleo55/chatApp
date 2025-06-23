@@ -19,12 +19,13 @@ A simple chat application built using **Node.js**, **Vue.js**, and **SQLite**.
 ## Server App (Node.js + SQLite)
 
 ```bash
-npm install
+   npm install
 
-npm run dev
+   npm run dev
 
 ## 🛠️ Tech Stack
 
+```bash
 Frontend: Vue.js
 Backend: Node.js (Express)
 Database: SQLite
