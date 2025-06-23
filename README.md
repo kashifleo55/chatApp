@@ -18,6 +18,7 @@ A simple chat application built using **Node.js**, **Vue.js**, and **SQLite**.
 
 ## Server App (Node.js + SQLite)
 
+```bash
 npm install
 
 npm run dev
