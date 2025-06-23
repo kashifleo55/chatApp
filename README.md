@@ -25,7 +25,7 @@ A simple chat application built using **Node.js**, **Vue.js**, and **SQLite**.
 
 ## 🛠️ Tech Stack
 
-```bash
-Frontend: Vue.js
-Backend: Node.js (Express)
-Database: SQLite
+
+   Frontend: Vue.js
+   Backend: Node.js (Express)
+   Database: SQLite
