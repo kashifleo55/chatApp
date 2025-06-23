@@ -1,2 +1,2 @@
 # chatApp
-ChatApp using Node.js, Vue.js
+ChatApp using Node.js, Vue.js, Sqlite
