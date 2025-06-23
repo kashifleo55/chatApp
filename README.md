@@ -1,11 +1,29 @@
-# chatApp
-ChatApp using Node.js, Vue.js, Sqlite
+# 📱 ChatApp
 
-# Clinet App
-i- npm i
-ii- npm run dev
+A simple chat application built using **Node.js**, **Vue.js**, and **SQLite**.
+
+---
+
+## 🖥️ Client App (Vue.js)
+
+### Setup Instructions
+
+1. Install dependencies:
+
+   ```bash
+   npm install
+
+   npm run dev
 
 
-# Server App
-i- npm i
-ii- npm run dev
+## Server App (Node.js + SQLite)
+
+npm install
+
+npm run dev
+
+## 🛠️ Tech Stack
+
+Frontend: Vue.js
+Backend: Node.js (Express)
+Database: SQLite
